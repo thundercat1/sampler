@@ -1,4 +1,4 @@
 #Exclude txt and csv
 
-*.[csv]
-*.[txt]
+*.csv
+*.txt
